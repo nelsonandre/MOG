@@ -1,5 +1,7 @@
 Mog::Application.routes.draw do
   
+  get "main2/index"
+
 #get "main/index"
 
   # The priority is based upon order of creation:
